@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/lexer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/egulias/email-validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/fideloper/proxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/filp/whoops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/nunomaduro/collision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/opis/closure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phar-io/manifest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phar-io/version" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpoption/phpoption" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/simple-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/object-reflector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/mime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-php72" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-php73" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/service-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/translation-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/theseer/tokenizer" vcs="Git" />
+  </component>
+</project>
