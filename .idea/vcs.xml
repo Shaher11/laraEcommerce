@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laraEcommerce" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/doctrine/lexer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" vcs="Git" />
